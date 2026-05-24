@@ -41,10 +41,10 @@ Currently pursuing MCA with specialization in **Artificial Intelligence & Machin
 
 ## 📁 Highlight Projects
 
-- **R&R Nomination Tool**: Power Platform solution with multi-level approvals, dynamic notifications, and live dashboards  
-- **ADO Governance Dashboards**: Real-time sprint visibility, workload consolidation, and bug prioritization workflows  
-- **Healthcare Testing Frameworks**: HIPAA/COBRA/Medicare compliance validation with reusable templates and automation  
-- **Data Migration & Modernization**: Smartsheet to SharePoint migration with Power Automate flows ensuring integrity and accessibility  
+- **R&R Nomination Tool**: Power Platform solution with multi-level approvals, dynamic notifications, and live dashboards -2FTE saving 
+- **ADO Governance Dashboards**: Real-time sprint visibility, workload consolidation, and bug prioritization workflows & apps  - 9 FTE saving
+- **Healthcare Testing Frameworks**: HIPAA/COBRA/Medicare compliance validation with reusable templates and automation  - JIRA testing flow
+- **Data Migration & Modernization**: Smartsheet to SharePoint migration with Power Automate flows ensuring integrity and accessibility  - Paid platform to free platfom 
 
 ---
 
